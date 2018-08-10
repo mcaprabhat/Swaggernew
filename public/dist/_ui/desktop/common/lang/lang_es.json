@@ -1,0 +1,11 @@
+{
+	"PRODUCT_LABEL":   "Producto",
+	"PRODUCT_TOOLTIP": "Producto Tooltip",
+	"SELECT_ALL_LABEL":"Buscar Todo",
+	"LOCATION_LABEL":  "Origen",
+	"SHIPTO_LABEL":    "Enviar a",
+	"ALL_LINK":        "Todo",
+	"MOREFIELDS_LINK": "+ Mas Campos",
+	"SEARCH_BUTTON":   "Buscar",
+	"SAVED_TITLE":     "Busquedas Guardadas"
+}

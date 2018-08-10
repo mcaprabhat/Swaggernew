@@ -1,0 +1,21 @@
+{
+	"PRODUCT_LABEL":   			"Product",
+	"PRODUCT_TOOLTIP": 			"Product Tooltip",
+	"ORIGIN_LABEL":   			"Origin",
+	"ORIGIN_TOOLTIP": 			"Origin Tooltip",
+	"SIZE_LABEL":   			"Size",
+	"SIZE_TOOLTIP": 			"Size Tooltip",
+	"SELECT_ALL_LINK":			"Select All",
+	"SELECT_ALL_TOOLTIP":		"Select All Tooltip",
+	"SELECT_NONE_LINK":			"Select None",
+	"SELECT_NONE_TOOLTIP":		"Select None Tooltip",
+	"LOCATION_LABEL":  			"From Location",
+	"SHIPTO_LABEL":    			"Ship To",
+	"ALL_LINK":        			"All",
+	"MOREFIELDS_LINK": 			"+ More Fields",
+	"SEARCH_BUTTON":   			"Search",
+	"SEARCH_TOOLTIP":  			"Search Tooltip",
+	"SAVED_TITLE":     			"Saved Searches",
+	"SHAPE_SIZE_CODE_LABEL": 	"Shape & Size Code",
+	"SKU_LABEL": 				"SKU"
+}

@@ -1,0 +1,32 @@
+{
+	"general_section" :	
+	{
+		"URL_LOGIN"        : "http://localhost:1337/w1-0.0-login.html",
+		"language_default" : "en",
+		"language_supported" : 
+		[
+			{ "lang" : "en"},
+			{ "lang" : "es"},
+			{ "lang" : "fr"}
+		],
+		"paging_options" : 
+		{
+        	"pageSizes"  : [5, 10, 20],
+	        "pageSize"   : 5,
+	        "currentPage": 1
+       	}
+	},
+	"web_service_section" :	
+	{
+			"base_url"         : "http://localhost:3000/",
+			"ws_keepalive"     : "keep_alive",
+			"ws_products"      : "products",
+			"ws_soldto"        : "sold_to",
+			"ws_savedSearch"   : "saved_searches",
+			"ws_shopping_cart" : "shopping_cart",
+			"ws_shape_groups"  : "shape_groups",
+			"ws_family_sizes"  : "family_sizes",
+			"ws_plants"        : "plants",
+			"ws_ship_tos"      : "sold_to/ship_tos"
+	}
+}
